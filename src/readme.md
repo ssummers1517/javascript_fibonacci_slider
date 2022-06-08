@@ -1,0 +1,1 @@
+This was a school assignment from a web development class in 2019. It is a web application that utilizes pure Javascript to add elements to a webpage. The page includes a slider that visualizes the fibonacci tree.
